@@ -17,36 +17,29 @@ This repository contains a fully functional analog clock built using **HTML**, *
 
 ## 📂 Project Structure
 
-```bash
-.
-├── index.html         # Main HTML file
-├── style.css          # CSS for styling the clock
-└── script.js          # JavaScript logic for real-time functionality
+├── index.html         # Main HTML file   
+├── style.css          # CSS for styling the clock      
+├── script.js          # JavaScript logic for real-time functionality   
+└── assets     
+└── screenshot.png
+
 
 ## 🖥️ Live Demo
-
-You can view a live demo of the analog clock [here](#). *(Replace with the actual link to your GitHub Pages or live demo)*
+(https://github.com/itsalokbarnwal/realtime-analog-clock)
 
 ## 📸 Screenshots
 
-*(Add your project screenshots here)*
+Here's a preview of the analog clock:
+
+![Analog Clock Screenshot](./assets/screenshot.png)
+
 
 ## 🛠️ Installation and Usage
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-   ```
+   
+   https://github.com/itsalokbarnwal/realtime-analog-clock.git
 
 2. Open `index.html` in your browser to see the clock in action.
 
 3. Optionally, you can edit the `style.css` or `script.js` to customize the design or behavior.
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you want to add any more details!
