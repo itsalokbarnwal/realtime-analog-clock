@@ -31,7 +31,8 @@ This repository contains a fully functional analog clock built using **HTML**, *
 
 Here's a preview of the analog clock:
 
-![Analog Clock Screenshot](./assets/screenshot.png)
+![Analog Clock Screenshot](Clock2024-09-29 153335.png)
+
 
 
 ## 🛠️ Installation and Usage
